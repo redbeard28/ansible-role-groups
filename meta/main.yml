@@ -1,0 +1,17 @@
+---
+galaxy_info:
+  author: Jeremie CUADRADO
+  role_name: groups
+  description: Ansible role add/remove linux group
+  license: GPLv3
+  company: Redbeard-Consulting
+  min_ansible_version: 2.9
+
+  platforms:
+    - name: Debian
+      versions:
+        - all
+
+  galaxy_tags: []
+
+  dependencies: []
